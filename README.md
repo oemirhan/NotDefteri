@@ -1,4 +1,4 @@
-# Android için Not Defteri - Demo
+# Android için Not Defteri
 Bu uygulama, geliştirmekte olduğum başka bir projemden aldığım bir örnek-demodur. Android ve Kotlin'i öğrenme sürecim sırasında yazdım.
 Uygulamada notları depolamak için SQLite kullandım. Üzerine çok şey eklenebilir ve ekliyorum da, hâlâ geliştiriyorum.
 
