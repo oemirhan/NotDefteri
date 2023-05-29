@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotDefteri</string>
+    <string name="yeni_not_ekle">Yeni Not Ekle</string>
+    <string name="notlar">Notlar</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="eklenenNot">Not</string>
+    <string name="ba_l_k">Başlık</string>
+    <string name="test">test</string>
+</resources>
