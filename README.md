@@ -13,6 +13,6 @@ Not Defteri demosu, notların listelendiği ve notların yazılabildiği iki Act
 
 ### Ekran Görüntüleri
 
-| Ana Ekran | Not Listeleme | Not Ekleme ve Güncelleme | Birden Fazla Not | Not Silme |
+| - | - | - | - | - |
 | ------ | ----- | ------ | ----- | ----- |
 | ![image1](image/1.jpg) | ![image2](image/2.jpg) | ![image3](image/3.jpg) | ![image4](image/4.jpg) | ![image5](image/5.jpg) |
