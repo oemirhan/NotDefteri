@@ -8,13 +8,7 @@ Not Defteri demosu, notların listelendiği ve notların yazılabildiği iki Act
 - Notların listelendiği ekrandan basılı tutulduğunda görünen silme butonu ile veya notun yazıldığı ekrandan eklenen notlar silinebilir
 
 Bilgi: GitHub'ta bulunan NotDefteri kodları uygulamanın ilk haline yani demo versiyonuna aittir.<br/>
-Uygulamanın güncellenmiş, son hali Play Store'da yayınlanmaktadır.<br/>
-Aşağıdaki bağlantıdan uygulamanın son haline erişebilir<br/>
-ve Mirative Software tarafından yayınlanan NoteMir'i deneyebilirsiniz.<br/>
-
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png"
-      alt="Google Play'den alın"
-      height="80">](https://play.google.com/store/apps/details?id=com.emir.notdefteri&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+Uygulamanın güncellenmiş, son hali Play Store'da yayınlanmaktaydı. Artık mevcut değildir.
 
 ### Ekran Görüntüleri
 
